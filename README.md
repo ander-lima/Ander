@@ -9,7 +9,7 @@ Atualmente estou fazendo o curso **[CS50x – Introduction to Computer Science](
 - Conceitos de algoritmos e estruturas de dados
 
 ## 💻 Meus projetos
-- [Repositório CS50x](https://github.com/ander/cs50x) — minhas soluções para os exercícios do curso  
+- [Repositório CS50x](https://github.com/ander-lima/cs50x) — minhas soluções para os exercícios do curso  
 - [Repositório STS - System to Sister](https://sts-system-to-tister.great-site.net) - Sistema de controle de clientes para minha irmã
 
 ## 🎯 Objetivos
